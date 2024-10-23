@@ -1224,6 +1224,22 @@ video {
     width: 31vw;
   }
 
+  .lg\:w-\[78\] {
+    width: 78;
+  }
+
+  .lg\:w-\[78vw\] {
+    width: 78vw;
+  }
+
+  .lg\:w-\[79vw\] {
+    width: 79vw;
+  }
+
+  .lg\:w-\[78\.5vw\] {
+    width: 78.5vw;
+  }
+
   .lg\:max-w-\[100\%\] {
     max-width: 100%;
   }
